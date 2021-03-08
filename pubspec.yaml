@@ -19,7 +19,7 @@ dependencies:
   flutter_material_color_picker: ^1.0.5
 
   #library to access storage directories
-  path_provider: ^1.4.4
+  path_provider: ^2.0.1
 
   #library to use Provider widgets
   provider: ^4.0.0
